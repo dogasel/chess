@@ -42,4 +42,4 @@ By setting log=True in the board constructor parameters, the Logger.py script wi
 #### You can clearly see the evaluation of 240 points by killing the queen and the evaluation of 10 points by killing the pawn.
 Make sure to open the .txt file using a jetbrains ide (i.e. pycharm) in order to view the board properly due to inconsistencies in the sizes of the unicode characters.
 
-[Chess assets by John Pablok CC-BY-SA 3.0](https://opengameart.org/content/chess-pieces-and-board-squares)
+
